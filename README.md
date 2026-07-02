@@ -50,7 +50,3 @@ Place the dataset CSV as `file.csv` in the root directory before running.
 - `line_1160` and `line_1170` correlate with `line_1200`, `line_1210`, `line_1220` — cross-section correlation between financial investments and current asset items.
 - `okopf` and `okfc` contain classifier codes; their distributions reflect the legal and ownership structure makeup of Russian companies.
 - Some balance sheet columns (`line_*`) have significant missing values — likely reported only under specific accounting standards or company types.
-
-## License
-
-MIT
